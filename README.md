@@ -1,22 +1,24 @@
 # snakegame-JavaScript
 
-O jogo da cobrinha utilizando JavaScript, CSS HTML, através do bootcamp de HTML Web Developer da Digital Innovation One.
+<h1><b>O jogo da cobrinha utilizando JavaScript</b></h1>
 
-Este repositório tem a finalidade apenas para fins de estudo.
+<p> CSS HTML, através do bootcamp de HTML Web Developer da Digital Innovation One.</p>
 
-Tecnologia usadas
+<p>Este repositório tem a finalidade apenas para fins de estudo.</p>
 
-Html 5
-•	Usado para organizar e interpretar o jogo
-•	Usado Principalmente a tag "CANVAS" para o espaço do funcionamento do game
+<p>Tecnologia usadas</p>
 
-CSS 3
-•	Estio simples para página, mas muito agradável
-JavaScript
-•	Principal elemento presente no jogo
-•	Usado para dinamica, regras, ações e outras coisas dentro do jogo
+<p><b>Html 5</b></p>
+<p>•	Usado para organizar e interpretar o jogo</p>
+<p>•	Usado Principalmente a tag "CANVAS" para o espaço do funcionamento do game</p>
 
-Onde aprender
+<p><b>CSS 3</b></p>
+<p>•	Estio simples para página, mas muito agradável</p>
+<p><b>JavaScript<b></p>
+<p>•	Principal elemento presente no jogo</p>
+<p>•	Usado para dinamica, regras, ações e outras coisas dentro do jogo</p>
 
-•	https://digitalinnovation.one/sign-in
-•   https://www.youtube.com/watch?v=Hua1OSXitdQ&t=283s
+<p><b>Onde aprender<b></p>
+
+<p>•	https://digitalinnovation.one/sign-in</p>
+<p>•   https://www.youtube.com/watch?v=Hua1OSXitdQ&t=283s</p>
